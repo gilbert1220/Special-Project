@@ -1,0 +1,111 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.apple{
+    content: url('../icons/apple.svg');
+    height: 20px;
+    width: 20px;
+}
+
+.img1{
+    content: url('../img/img1.jpg');
+    height: 50px;
+    width: 50px;
+}
+
+.crown1{
+    content: url('../icons/crown.svg');
+    height: 20px;
+    width: 20px;
+}
+
+.points1{
+    content: url('../icons/points1.svg');
+    height: 20px;
+    width: 20px;
+}
+
+.home{
+    content: url('../icons/home.svg');
+    height: 25px;
+    width: 25px;
+}
+
+.order{
+    content: url('../icons/order.svg');
+    height: 25px;
+    width: 25px;
+}
+
+.notif{
+    content: url('../icons/notif.svg');
+    height: 25px;
+    width: 25px;
+}
+
+.loc{
+    content: url('../icons/loc.svg');
+    height: 25px;
+    width: 25px;
+}
+
+.faq{
+    content: url('../icons/faq.svg');
+    height: 25px;
+    width: 25px;
+}
+
+.user{
+    content: url('../icons/user.svg');
+    height: 25px;
+    width: 25px;
+}
+
+.fav{
+    content: url('../icons/fav.svg');
+    height: 25px;
+    width: 25px;
+}
+
+.tracker{
+    content: url('../icons/loc2.svg');
+    height: 25px;
+    width: 25px;
+}
+
+.history{
+    content: url('../icons/history.svg');
+    height: 25px;
+    width: 25px;
+}
+
+.toggle1{
+    content: url('../icons/filter.svg');
+    height: 30px;
+    width: 30px;
+}
+
+.close1{
+    content: url('../icons/close1.svg');
+    height: 30px;
+    width: 30px;
+}
+
+.logout{
+    content: url('../icons/logout.svg');
+    height: 30px;
+    width: 30px;
+}
+
+.F-logo{
+    content: url('../img/Flogo-removebg-preview.png');
+    height: 10rem;
+    width: 10rem;
+}
+
+.search{
+    content: url('../icons/search.svg');
+    height: 20px;
+    width: 20px;
+}
